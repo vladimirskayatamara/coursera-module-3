@@ -1,0 +1,31 @@
+
+.navbar-brand{
+    font-size: 40px;
+    color: black;
+}
+
+#header-nav{
+    background-color: rgb(161, 161, 161);
+}
+.navbar-header button, .navbar-toggle {
+    clear: both;
+    margin-top: -40px;
+  }
+#menu-collapsable-nav{
+    width: 100%;
+}
+#nav-list a{
+    background-color: rgb(185, 173, 255);
+    width: 100%;
+}
+#nav-list a:hover {
+	background-color: #8243d6;
+}
+
+section{
+    background-color: rgb(184, 173, 173);
+    text-align: justify;
+    margin: 5px 5px 5px 0;
+    float: left;
+    padding: 10px;
+}
